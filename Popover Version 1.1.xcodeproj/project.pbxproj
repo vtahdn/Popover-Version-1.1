@@ -12,6 +12,19 @@
 		DE981FB71EC89ADC00B20A0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE981FB51EC89ADC00B20A0B /* Main.storyboard */; };
 		DE981FB91EC89ADC00B20A0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE981FB81EC89ADC00B20A0B /* Assets.xcassets */; };
 		DE981FBC1EC89ADC00B20A0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE981FBA1EC89ADC00B20A0B /* LaunchScreen.storyboard */; };
+		DE981FD01EC89B3400B20A0B /* angry.png in Resources */ = {isa = PBXBuildFile; fileRef = DE981FC41EC89B3400B20A0B /* angry.png */; };
+		DE981FD11EC89B3400B20A0B /* comment.png in Resources */ = {isa = PBXBuildFile; fileRef = DE981FC51EC89B3400B20A0B /* comment.png */; };
+		DE981FD21EC89B3400B20A0B /* face.png in Resources */ = {isa = PBXBuildFile; fileRef = DE981FC61EC89B3400B20A0B /* face.png */; };
+		DE981FD31EC89B3400B20A0B /* greyLike.png in Resources */ = {isa = PBXBuildFile; fileRef = DE981FC71EC89B3400B20A0B /* greyLike.png */; };
+		DE981FD41EC89B3400B20A0B /* haha.png in Resources */ = {isa = PBXBuildFile; fileRef = DE981FC81EC89B3400B20A0B /* haha.png */; };
+		DE981FD51EC89B3400B20A0B /* like.png in Resources */ = {isa = PBXBuildFile; fileRef = DE981FC91EC89B3400B20A0B /* like.png */; };
+		DE981FD61EC89B3400B20A0B /* love.png in Resources */ = {isa = PBXBuildFile; fileRef = DE981FCA1EC89B3400B20A0B /* love.png */; };
+		DE981FD71EC89B3400B20A0B /* sad.png in Resources */ = {isa = PBXBuildFile; fileRef = DE981FCB1EC89B3400B20A0B /* sad.png */; };
+		DE981FD81EC89B3400B20A0B /* share.png in Resources */ = {isa = PBXBuildFile; fileRef = DE981FCC1EC89B3400B20A0B /* share.png */; };
+		DE981FD91EC89B3400B20A0B /* Swift3IMG.png in Resources */ = {isa = PBXBuildFile; fileRef = DE981FCD1EC89B3400B20A0B /* Swift3IMG.png */; };
+		DE981FDA1EC89B3400B20A0B /* swift1600.png in Resources */ = {isa = PBXBuildFile; fileRef = DE981FCE1EC89B3400B20A0B /* swift1600.png */; };
+		DE981FDB1EC89B3400B20A0B /* wow.png in Resources */ = {isa = PBXBuildFile; fileRef = DE981FCF1EC89B3400B20A0B /* wow.png */; };
+		DE981FDD1EC89BD900B20A0B /* ViewTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE981FDC1EC89BD900B20A0B /* ViewTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +35,19 @@
 		DE981FB81EC89ADC00B20A0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE981FBB1EC89ADC00B20A0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE981FBD1EC89ADC00B20A0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE981FC41EC89B3400B20A0B /* angry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = angry.png; sourceTree = "<group>"; };
+		DE981FC51EC89B3400B20A0B /* comment.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = comment.png; sourceTree = "<group>"; };
+		DE981FC61EC89B3400B20A0B /* face.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = face.png; sourceTree = "<group>"; };
+		DE981FC71EC89B3400B20A0B /* greyLike.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greyLike.png; sourceTree = "<group>"; };
+		DE981FC81EC89B3400B20A0B /* haha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = haha.png; sourceTree = "<group>"; };
+		DE981FC91EC89B3400B20A0B /* like.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = like.png; sourceTree = "<group>"; };
+		DE981FCA1EC89B3400B20A0B /* love.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = love.png; sourceTree = "<group>"; };
+		DE981FCB1EC89B3400B20A0B /* sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sad.png; sourceTree = "<group>"; };
+		DE981FCC1EC89B3400B20A0B /* share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = share.png; sourceTree = "<group>"; };
+		DE981FCD1EC89B3400B20A0B /* Swift3IMG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Swift3IMG.png; sourceTree = "<group>"; };
+		DE981FCE1EC89B3400B20A0B /* swift1600.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swift1600.png; sourceTree = "<group>"; };
+		DE981FCF1EC89B3400B20A0B /* wow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wow.png; sourceTree = "<group>"; };
+		DE981FDC1EC89BD900B20A0B /* ViewTwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,12 +82,33 @@
 			children = (
 				DE981FB11EC89ADC00B20A0B /* AppDelegate.swift */,
 				DE981FB31EC89ADC00B20A0B /* ViewController.swift */,
+				DE981FDC1EC89BD900B20A0B /* ViewTwo.swift */,
 				DE981FB51EC89ADC00B20A0B /* Main.storyboard */,
 				DE981FB81EC89ADC00B20A0B /* Assets.xcassets */,
 				DE981FBA1EC89ADC00B20A0B /* LaunchScreen.storyboard */,
 				DE981FBD1EC89ADC00B20A0B /* Info.plist */,
+				DE981FC31EC89B2000B20A0B /* Resource */,
 			);
 			path = "Popover Version 1.1";
+			sourceTree = "<group>";
+		};
+		DE981FC31EC89B2000B20A0B /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				DE981FC41EC89B3400B20A0B /* angry.png */,
+				DE981FC51EC89B3400B20A0B /* comment.png */,
+				DE981FC61EC89B3400B20A0B /* face.png */,
+				DE981FC71EC89B3400B20A0B /* greyLike.png */,
+				DE981FC81EC89B3400B20A0B /* haha.png */,
+				DE981FC91EC89B3400B20A0B /* like.png */,
+				DE981FCA1EC89B3400B20A0B /* love.png */,
+				DE981FCB1EC89B3400B20A0B /* sad.png */,
+				DE981FCC1EC89B3400B20A0B /* share.png */,
+				DE981FCD1EC89B3400B20A0B /* Swift3IMG.png */,
+				DE981FCE1EC89B3400B20A0B /* swift1600.png */,
+				DE981FCF1EC89B3400B20A0B /* wow.png */,
+			);
+			name = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,6 +171,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE981FBC1EC89ADC00B20A0B /* LaunchScreen.storyboard in Resources */,
+				DE981FD61EC89B3400B20A0B /* love.png in Resources */,
+				DE981FDA1EC89B3400B20A0B /* swift1600.png in Resources */,
+				DE981FD01EC89B3400B20A0B /* angry.png in Resources */,
+				DE981FD51EC89B3400B20A0B /* like.png in Resources */,
+				DE981FD21EC89B3400B20A0B /* face.png in Resources */,
+				DE981FD11EC89B3400B20A0B /* comment.png in Resources */,
+				DE981FD31EC89B3400B20A0B /* greyLike.png in Resources */,
+				DE981FD81EC89B3400B20A0B /* share.png in Resources */,
+				DE981FDB1EC89B3400B20A0B /* wow.png in Resources */,
+				DE981FD41EC89B3400B20A0B /* haha.png in Resources */,
+				DE981FD91EC89B3400B20A0B /* Swift3IMG.png in Resources */,
+				DE981FD71EC89B3400B20A0B /* sad.png in Resources */,
 				DE981FB91EC89ADC00B20A0B /* Assets.xcassets in Resources */,
 				DE981FB71EC89ADC00B20A0B /* Main.storyboard in Resources */,
 			);
@@ -138,6 +197,7 @@
 			files = (
 				DE981FB41EC89ADC00B20A0B /* ViewController.swift in Sources */,
 				DE981FB21EC89ADC00B20A0B /* AppDelegate.swift in Sources */,
+				DE981FDD1EC89BD900B20A0B /* ViewTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
